@@ -40,7 +40,7 @@ If you do not verify your email address, you will not be able to:
 
 {% endwarning %}
 
-## Verifying your email address
+## Verifying your email add7ress
 
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.emails %}
